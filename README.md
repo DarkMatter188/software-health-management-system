@@ -1,5 +1,5 @@
-# software-health-management-system
-#Keeps track of food and exercises performed
+# A simple Health Management system
+#Keeps track of food and exercises performed by you
 #  Exersise 5
 def getdate():
     import datetime
